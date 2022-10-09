@@ -35,7 +35,7 @@ HOME_PAGE="<!DOCTYPE html>
 	</head>
 	<body>
 		<h1>Welcome to AirBnB!</h1>
-	<body>
+	</body>
 </html>
 "
 # shellcheck disable=SC2230
