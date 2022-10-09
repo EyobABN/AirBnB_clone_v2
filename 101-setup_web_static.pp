@@ -47,7 +47,7 @@ file { '/data/web_static/releases/test/index.html':
 	</head>
 	<body>
 		<h1>Welcome to AirBnB!</h1>
-	<body>
+	</body>
 </html>
 ",
   replace => true,
